@@ -43,7 +43,7 @@
     "i18next": "^26.3.1",
     "lucide-react": "^0.562.0",
     "mp4box": "^2.3.0",
-    "pdfjs-dist": "^5.6.205",
+    "pdfjs-dist": "^6.2.108",
     "qrcode.react": "^4.2.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
@@ -63,10 +63,10 @@
     "autoprefixer": "^10.4.23",
     "axe-core": "^4.13.0",
     "jsdom": "^29.1.1",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.28",
     "tailwindcss": "^4.1.18",
     "typescript": "~5.8.3",
-    "vite": "^7.0.4",
-    "vitest": "^4.1.10"
+    "vite": "^7.3.6",
+    "vitest": "^5.0.2"
   }
 }
